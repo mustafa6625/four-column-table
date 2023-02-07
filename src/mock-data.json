@@ -1,0 +1,26 @@
+[
+  {
+    "account": "SLS-8500",
+    "event": "Lender history record was modified: 'Check No.' was changed from Hold to Immediate",
+    "entered_by": "DominickH",
+    "event_date": "2021-05-18T16:28:08.183Z"
+  },
+  {
+    "account": "SLS-8300",
+    "event": "Email Lender Statement of Account: Lil Wave Financial Inc., 401K Plan",
+    "entered_by": "Scott",
+    "event_date": "2021-05-12T23:53:16.077Z"
+  },
+  {
+    "account": "SLS-8400",
+    "event": "Lender history record was deleted: ODL-021420, Print, 1/1/1900, 1/1/1900, $2,005.00",
+    "entered_by": "NicholasC",
+    "event_date": "2021-04-15T13:46:41.543Z"
+  },
+  {
+    "account": "SLS-8600",
+    "event": "Lender file was modified: 'Home Phone' was changed from Null to (818) 371-3965",
+    "entered_by": "ITAdmin",
+    "event_date": "2021-04-08T15:18:02.617Z"
+  }
+]
